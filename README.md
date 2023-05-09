@@ -47,4 +47,4 @@ Open your Terminal (or whatever CLI your machine provides) and using curl:
 4. Make GET call to get 5 German companies. 
 5. Make GET call to retrieve 60 credit cards of Spanish people.
 6. Make GET call to retrieve 47 products that cost higher than 50€.  
-7. Make GET call to retrieve 10 Custom objects with "pokemon", "website", and "name" fields.
+7. Make GET call to retrieve 10 Custom objects with "pokemon", "website", and "name" fields. (url has to be in quotes)
